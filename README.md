@@ -1,1 +1,1 @@
-# privacy
+The Privacy for EmptyStudio Projects.
