@@ -1,0 +1,1 @@
+"CelestialMetabolism" application do not collect any data.
